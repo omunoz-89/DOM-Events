@@ -1,2 +1,2 @@
 # DOM-Events
-Starting DOM
+Intro to DOM
